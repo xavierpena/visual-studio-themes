@@ -7,3 +7,9 @@ I prefer `.vssettings`, which can be imported directly into visual studio. I pre
 I wanted to have the Monokai theme in the code, but keep the Light theme for all other features of VisualStudio.
 
 The original theme was taken from [this link](https://studiostyl.es/schemes/monokai), but when it was imported the parameter `punctuation` was in black instead of white.
+
+
+## Other styles
+
+* [Tomorrow light theme](https://studiostyl.es/schemes/tomorrow-light-theme)
+* [Coding Horror](https://studiostyl.es/schemes/coding-horror-2010)
